@@ -12,8 +12,8 @@ numb = len(day)
 avg = 0
 
 # ask section
-for n in range(0, numb):  # todo: need to make a new item in the 2d array without accessing it directly through
-    # editing the code
+for n in range(0, numb):
+    # todo: need to make a new item in the 2d array without accessing it directly through editing the code
 
     hWatching = int(input("how many hours were you watching tv on " + day[n][0]))
     print(hWatching, " on ", day[n][0])
