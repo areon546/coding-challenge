@@ -1,5 +1,5 @@
-monday
-friday
-tuesday
-sunday
-saturday
+monday 0
+friday 0
+tuesday 0
+sunday 0
+saturday 0
