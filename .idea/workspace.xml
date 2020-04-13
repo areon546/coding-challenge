@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68673a07-13bb-44b3-8e10-943d6a792393" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b63b988d-b525-4797-80e5-ccf58cfac1b2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,39 +15,35 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1YoFLsENpikZT30ytBVvjAMhzpu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1Zim58Olmzjgwa10YSd1KUl64Lj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Marek PC\Desktop\Arturs projects\github\coding-challenge\pyWork" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\artura\Desktop\git projects\coding-challenge" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test2">
-    <configuration name="fileTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyWork" />
+  <component name="RunManager" selected="Python.test">
+    <configuration name="fileTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding-challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyWork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyWork/fileTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,19 +52,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyWork" />
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="coding-challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyWork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyWork/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,18 +74,18 @@
       <method v="2" />
     </configuration>
     <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyWork" />
+      <module name="coding-challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyWork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyWork/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,19 +94,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="websiteExample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyWork" />
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coding-challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyWork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/websiteExample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyWork/test3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,11 +115,16 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.fileTest" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.test3" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test3" />
         <item itemvalue="Python.test2" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.websiteExample" />
         <item itemvalue="Python.fileTest" />
       </list>
     </recent_temporary>
@@ -136,47 +134,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="68673a07-13bb-44b3-8e10-943d6a792393" name="Default Changelist" comment="" />
-      <created>1583600986145</created>
+      <changelist id="b63b988d-b525-4797-80e5-ccf58cfac1b2" name="Default Changelist" comment="" />
+      <created>1585330102819</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583600986145</updated>
+      <updated>1585330102819</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="290" y="0" key="CommitChangelistDialog2" timestamp="1583682791349">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="290" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583682791349" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1583601763878">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583601763878" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1584477721086">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584477721086" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1584477721086">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584477721086" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1584477721085">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584477721085" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1584477721086">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584477721086" />
-    <state x="207" y="7" key="SettingsEditor" timestamp="1585329933518">
+    <state x="395" y="95" key="#Inspections" timestamp="1586796469457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583601774451" />
-    <state x="207" y="7" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585329933518" />
-    <state x="303" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584464023106">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="395" y="95" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1586796469457" />
+    <state x="654" y="275" key="#Notifications" timestamp="1586786257489">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="303" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584464023106" />
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1586786257489" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586786855364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586786855364" />
+    <state x="538" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586523126598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586523126598" />
+    <state width="1513" height="233" key="GridCell.Tab.0.bottom" timestamp="1586796712696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1513" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586796712696" />
+    <state width="1513" height="233" key="GridCell.Tab.0.center" timestamp="1586796712696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1513" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586796712696" />
+    <state width="1513" height="233" key="GridCell.Tab.0.left" timestamp="1586796712696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1513" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586796712696" />
+    <state width="1513" height="233" key="GridCell.Tab.0.right" timestamp="1586796712696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1513" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586796712696" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586526735791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586526735791" />
   </component>
 </project>
