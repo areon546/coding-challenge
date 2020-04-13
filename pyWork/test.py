@@ -1,7 +1,7 @@
 uName = input("please write your name: ")
 
 ###             files integration
-with open('testDays.txt', 'r') as f:
+with open('Days.txt', 'r') as f:
     day = []
 
     for line in f:
