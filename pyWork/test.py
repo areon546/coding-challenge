@@ -1,6 +1,6 @@
 uName = input("please write your name: ")
 
-###             file integration
+#               file integration
 with open('testDays.txt', 'r') as f:  # opens and closes the file in this loop
     day = []
 
@@ -16,6 +16,7 @@ avg = 0
 
 # ask section
 for n in range(numb):  # goes through all the days and asks the user how many hours on which day and stores it
+
     hWatching = int(input("How many hours were you watching tv on " + day[n][0]))
     #        asks how long you were watching the tv for
 
