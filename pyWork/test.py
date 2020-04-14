@@ -1,13 +1,13 @@
 uName = input("please write your name: ")
 
-###             files integration
-with open('Days.txt', 'r') as f:
+###             file integration
+with open('testDays.txt', 'r') as f:  # opens and closes the file in this loop
     day = []
 
-    for line in f:
-        number_strings = line.split()
+    for line in f:  # counts lines in the file - f
+        number_strings = line.split()  # number_strings goes through every line and makes it a list
 
-        day.append(number_strings)
+        day.append(number_strings)  # adds the list in number_strings to the end of day
 
 print(day)
 
@@ -15,16 +15,24 @@ numb = len(day)
 avg = 0
 
 # ask section
-for n in range(0, numb):
-
+for n in range(numb):  # goes through all the days and asks the user how many hours on which day and stores it
     hWatching = int(input("How many hours were you watching tv on " + day[n][0]))
+    #        asks how long you were watching the tv for
+
     print(hWatching, " on ", day[n][0])
+    #       prints how long it was ,possibly unnecessary, on that day
+
     avg += hWatching
+    #       adds the length of time watching too the average variable
+
     day[n][1] = hWatching
-avg /= len(day)  # len() finds the length of a variable
+
+    # finds the average of how long
+avg /= numb  # numb is length of a day
 
 # print section
-for i in range(len(day)):
+for i in range(numb):
     print(day[i][1], "on ", day[i][0])
 print(avg, " is your average.")
 
+print(day)
