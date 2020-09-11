@@ -4,7 +4,7 @@ uName = input("please write your name: ")
 with open('testDays.txt', 'r') as f:  # opens and closes the file in this loop
     day = []
 
-    for line in f:  # counts lines in the file - f
+    for line in f:  # counts lines in the file (f)
         number_strings = line.split()  # number_strings goes through every line and makes it a list
 
         day.append(number_strings)  # adds the list in number_strings to the end of day
